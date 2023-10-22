@@ -1,5 +1,7 @@
 ![logo](logo.png)
 
+**!!NOTICE!!:** I have decided to abandon Minecraft in favor of the FOSS Minetest ([https://www.minetest.net](https://www.minetest.net "Minetest website")). As such, this project will no longer be maintained or developed.
+
 # Nitwit Only Mode
 
 Ever wanted all the villagers in your world to be nitwits? No? Well, too bad! Now they are.
