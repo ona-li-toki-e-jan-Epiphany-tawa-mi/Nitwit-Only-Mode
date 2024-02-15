@@ -17,7 +17,3 @@ Grab a version from [RELEASES](https://github.com/ona-li-toki-e-jan-Epiphany-taw
 To uninstall, remove the datapack from your world's datapacks folder and reload.
 
 Note: villagers will **NOT** be reverted to their original profession nor will their trades be restored.
-
-## Links
-
-- [Planet Minecraft page.](https://www.planetminecraft.com/data-pack/nitwit-only-mode "Nitwit Only Mode's page on Planet Minecraft")
